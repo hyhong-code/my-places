@@ -16,7 +16,7 @@ const ModalOverlay = ({
   footer,
 }) => {
   const content = (
-    <div className={`modal ${className}`} style={{ style }}>
+    <div className={`modal ${className}`} style={style}>
       <header className={`modal__header ${headerClass}`}>
         <h2>{header}</h2>
       </header>

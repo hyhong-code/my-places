@@ -11,8 +11,8 @@ const DUMMY_PLACES = [
       "https://images.unsplash.com/photo-1570299437488-d430e1e677c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2450&q=80",
     address: "27 de Noviembre, La Habana, Cuba",
     coordinates: {
-      lat: "77.7812",
-      lng: "21.5218",
+      lat: 21.5218,
+      lng: 77.7812,
     },
     creatorId: "u1",
   },
@@ -25,8 +25,8 @@ const DUMMY_PLACES = [
       "https://images.unsplash.com/photo-1570299437488-d430e1e677c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2450&q=80",
     address: "27 de Noviembre, La Habana, Cuba",
     coordinates: {
-      lat: "77.7812",
-      lng: "21.5218",
+      lat: 77.7812,
+      lng: 21.5218,
     },
     creatorId: "u2",
   },
